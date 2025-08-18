@@ -1,5 +1,8 @@
-# HTS - Hypothesis Testing Solver 🧠📊
 
+
+dscsdcsdc
+# HTS - Hypothesis Testing Solver 🧠📊
+sdcscscds
 **HTS (Hypothesis Testing Solver)** is a web-based platform that helps users perform and understand hypothesis testing using three different methods: the Traditional Method, P-value Method, and Confidence Interval Method. It is designed to guide users through each statistical approach clearly and interactively, complete with visualizations and step-by-step calculations.
 
 ---
